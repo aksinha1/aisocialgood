@@ -1,35 +1,36 @@
-Grant Administrator Application
-Overview
-The Grant Administrator Application is a smart tool designed to assist organizations, universities, and funding bodies in evaluating multiple grant applications efficiently. It automates the process of scanning, evaluating, and ranking submitted proposals based on customized criteria and integrity checks.
+# Grant Administrator Application
 
-Features
-Batch Application Scanning
-Upload and analyze multiple grant applications at once.
+## Overview
 
-Custom Evaluation Criteria
-Define and apply unique scoring criteria tailored to your grant program (e.g., innovation, feasibility, impact, alignment with mission).
+The Grant Administrator Application streamlines the review process for funding organizations by using AI to evaluate and rank multiple grant submissions. It allows administrators to define custom evaluation criteria, automatically scores and ranks applications, checks for plagiarism, and offers tools to organize and save top candidates.
 
-Automated Ranking System
-Generates a ranked list of applications based on total weighted scores.
+---
 
-Application Rating Summary
-Provides individual ratings per criterion to ensure transparency in evaluation.
+## Features
 
-Plagiarism Detection
-Scans each application for potential plagiarism and generates a detailed similarity report.
+- **Custom Evaluation Criteria**  
+  Administrators can define their own scoring rubrics tailored to departmental goals or funding priorities. The system uses these inputs to influence application scoring and ranking.
 
-Exportable Reports
-Download rankings, ratings, and plagiarism reports in CSV or PDF format for easy sharing and documentation.
+- **Bulk Application Upload**  
+  Easily upload multiple applications in one session. The AI processes each application and ranks them from strongest to weakest based on the defined criteria and scoring logic.
 
-How It Works
-Upload Applications
-Submit PDF, DOCX, or text-based application files to the platform.
+- **Automated Scoring and Feedback**  
+  Each application is reviewed and given:
+  - A detailed evaluation summary  
+  - A numeric score out of 100  
+  - A plagiarism status report
 
-Set Evaluation Criteria
-Define categories (e.g., "Technical Merit", "Budget Justification") and assign weights to each.
+- **Plagiarism Detection**  
+  Integrated checks help identify copied content, ensuring applicants submit original work and maintain the integrity of the review process.
 
-Run Analysis
-The system scores and ranks each application, then runs a plagiarism check to ensure originality.
+- **Save and Organize Top Applications**  
+  Administrators can save preferred submissions to a dedicated "Saved Applications" tab, allowing for easy access and comparison throughout the decision-making process.
 
-Review Results
-View a complete breakdown of scores, rankings, and flagged plagiarism reports.
+---
+
+## Benefits
+
+- Saves time by automating repetitive review tasks  
+- Enhances objectivity and consistency across reviews  
+- Supports transparency with clear scoring and feedback  
+- Protects against dishonest submissions with plagiarism scanning
